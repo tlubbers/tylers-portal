@@ -1,3 +1,3 @@
 # tylerlubbers.com
 
-The source code for my personal website. 
+The source code for the latest version of my personal website. 
